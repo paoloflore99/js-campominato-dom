@@ -1,0 +1,21 @@
+
+.square {
+    width: 80px;
+    height: 80px;
+    background-color: white;
+    display: inline-block;
+    border: 1px solid black;
+}
+
+.vediamos {
+    background-color: green;
+}
+
+.mio {
+    width: 800px;
+    height: 800px;
+}
+
+.bom {
+    background-color: red;  
+}
